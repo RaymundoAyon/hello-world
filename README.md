@@ -1,2 +1,2 @@
 # hello-world
-Soy Raymundo Ayón, estudiannte de ingeniería civil
+Soy Raymundo Ayón, estudiante de ingeniería civil
